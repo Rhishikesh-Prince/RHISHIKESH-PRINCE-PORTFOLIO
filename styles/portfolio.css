@@ -227,7 +227,7 @@
   height: 65vh;
   border-radius: 2vw;
   /* border: rebeccapurple 2px solid; */
-  opacity: 0; 
+  opacity: 1; 
   transform: translateX(10%);
   transition: opacity 0.1s, transform 0.1s;
   color: rgb(0, 0, 0);
@@ -260,7 +260,7 @@
   height: 100%;
   /* border: rgb(0, 0, 0) 2px solid; */
   position: relative;
-  opacity: 0;
+  opacity: 1;
   transform: translateX(20%);
   transition: opacity 0.5s, transform 2s;
  
